@@ -1,4 +1,4 @@
-### 👋 About Me
+### 👋 [About Me](https://shahriarzame.github.io/)
 
 I’m **Shahriar Iqbal Zame**, a [Ph.D. Researcher](https://www.mos.ed.tum.de/vvs/mitarbeiterinnen/shahriar-iqbal-zame/) at the [Chair of Transportation Systems Engineering (TSE)](https://www.mos.ed.tum.de/vvs/) of the **Technical University of Munich (TUM)**. I am currently working on the **DFG-funded** project [SEE-FAr – Shaping E-Roads Efficiency for Freight Automation](https://www.mos.ed.tum.de/vvs/forschung/projekte/see-far/), a collaborative effort between TUM and BOKU. My work leverages agent-based simulation and large-scale data analysis to investigate energy-efficient and sustainable freight transport systems, focusing on electric roads, automation, and behavioral adaptation.
 
