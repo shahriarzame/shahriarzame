@@ -12,7 +12,7 @@ My research is also supported by the **EIT Urban Mobility Doctoral Training Netw
   *Project: SEE-FAr | Supervisors: Prof. Constantinos Antoniou, Prof. Yusak Susilo*
 
 - **M.Sc. in Transportation Systems**, TUM (2021–2024)  
-  *Thesis: [Multi-objective siting of vertiports for UAM in Munich](http://dx.doi.org/10.13140/RG.2.2.19011.11048)*  
+  *Thesis: [UAM siting approach considering capacity and land use: A case study of Munich](http://dx.doi.org/10.13140/RG.2.2.19011.11048)*  
   The thesis was awarded the prestigious Johannes B. Ortner-Stiftung Award for outstanding Master Thesis
 
 
